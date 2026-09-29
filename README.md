@@ -1,16 +1,15 @@
 <div align="center">
 
-# Hi 👋, I'm Tiyo Wahyudi
+<h1>Hi 👋, I'm Tiyo Wahyudi</h1>
 
-!ttps://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Machine+Learning+Enthusiast;Cyber+Security+Learner;Cloud+Computing+Explorer
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Machine+Learning+Enthusiast;Cyber+Security+Learner;Cloud+Explorer
 
-https://komarev.com/ghpvc/?username=tyo-whydi&label=Profile%20Views&color=0e75b6&style=for-the-badge
+<br><br>
 
-</div>
-
----
-
-## 🚀 About Me
+<img
+src="https://komarev.com/ghpvc/?username=tyo-whydi&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+alt=" 🚀 About Me
 
 - 🎓 Informatics Engineering Student at Universitas Pamulang
 - 💻 Passionate about Backend Development
@@ -25,29 +24,29 @@ https://komarev.com/ghpvc/?username=tyo-whydi&label=Profile%20Views&color=0e75b6
 
 <div align="center">
 
-https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,linux,vscode,figma&perline=5
+<img
+src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,gitnux,vscode,figma&perline=5
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](eadme-stats.vercel.app/api?username=tyo-whydi&show_icons=true&theme=tokyonight&hide_border=true
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=ty&theme=tokyonight&hide_border=true
 
-![Top Languages](https://github-readme-api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight&hide_border=true
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/="center">
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://lab.com?user=tyo-whydi&theme=tokyonight&hide_border=true
+<img
+src="https://streak-stats.demolab.com?user=tyo-whydi&onight&hide_border=true
 
 </div>
 
@@ -57,7 +56,8 @@ https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,li
 
 <div align="center">
 
-![Contribution Graphe-activity-graph.vercel.app/graph?username=tyo-whydi&theme=tokyo-night
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=tyo-whydiyo-night
 
 </div>
 
@@ -67,7 +67,8 @@ https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,li
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=tyo-whydi&theme=tokyon&column=6
+<img
+src="https://github-profile-trophy.vercel.app/?username=tyome=tokyonight&row=1&column=6
 
 </div>
 
@@ -88,15 +89,30 @@ https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,li
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:tyowhydi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?styleadge&logo=gmail&logoColor=white
-  </a>
+<div align="center">
 
-  <a href="https://linkedin.com/in/tiyo-wahyudi-488b02438">
-    <img src="https://img.shields.io/badge/Linkedstyle=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-</p>
+<a href="mailto:tyowhydi@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badgel&logoColor=white
+</a>
+
+<a href="https://linkedin.com/in/tiyo-wahyudi-488b02438">
+<img
+src="https://img.shields.io/badge/LinkedIn-0077B5-the-badge&logo=linkedin&logoColor=white
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/tyo-whydi/tyo-whydi/output/github-on-grid-snake-dark.svg
+
+</div>
 
 ---
 
