@@ -1,41 +1,47 @@
 # Hi 👋, I'm Tiyo Wahyudi
 
-🎓 Informatics Engineering Student at Universitas Pamulang
+🎓 Info**atics Engineering Student at Univ**sitas Pamulang
 
-💻 Interested in Backend Development, Data Mining, Cloud Computing, and Cyber Security
-
-🌱 Currently learning Machine Learning, Ethical Hacking, and Spring Boot
+💻 Interested in**ackend Development, Data Mining, **oud Computing, and Cyber Security**🌱 Currently learning Machine Lea**ing, Ethical Hacking, and Spring **ot
 
 ---
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00lat-square&logo=openjdk&logoColor=white
-![Spring Boot](https://img.shields.io/badgeB33F?style=flat-square&logo=springboot&logoColor=white
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=re&logo=mysql&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=oColor=white
-![Docker](https://img.shields.io/badge/Dockeryle=flat-square&logo=docker&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&or=white
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&a&logoColor=white
+![Java**img.shields.io/badge/Java-ED8B00?**yle=flat-square&logo=openjdk&logo**lor=white
+![Spring Boot](https**/img.shields.io/badge/Spring_Boot**DB33**re&logo=springboot&logoColor=whit**![My**L](https://img.shields.io/badge/M**?style=flat-square&logo=mysql&log**olor=white
+![Post**eSQL](https://img.shields**eSQL-316192?style=flat-square&log**postgresql&logoColor=white
+![Dock**](https://**g.shields.io/badge/Docker-2496ED?**quare&logo=docker&logoColor=white**[Git](https**/img.shields.io/badge/Git-F05032?**t-square&logo=git&logoColor=white**[Figma**https://img.shields.io/badge/Figm**F24E**at-square&logo=figma&logoColor=wh**e
 
 ---
 
 ## 📚 Current Focus
 
-- Machine Learning
+- Ma**ine Learning
 - Data Mining
-- Spring Boot REST API
+- Spri** Boot REST API
 - Ethical Hacking
-- Cloud Computing
+**Cloud Computing
 
 ---
 
-## 📫 Connect
+## 🔬 Featu**d Research
 
-- Email: tyowhydi@gmail.com
-- LinkedIn: https://linkedin.com/in/tiyo-wahyudi-488b02438
+### Sentiment Analysi**and Complaint Classification of D**A App Reviews
+
+Algorithms:
+- Naiv**Bayes
+- Support Vector Machine (S**)
+- Random Forest
+
+Dataset:
+- Goo**e Play Store User Reviews
 
 ---
 
-⭐ Keep Learning, Keep Building, and Never Stop Exploring Technology.
-`
+#**📫 Connect
+
+- Email: tyowhydi@gma**.com
+- LinkedIn: https://linkedin**om/in/tiyo-wahyudi-488b02438
+
+---**⭐ Keep Learning, Keep Building, a** Never Stop Exploring Technology.**
