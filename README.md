@@ -1,47 +1,126 @@
+<div align="center">
+
 # Hi 👋, I'm Tiyo Wahyudi
 
-🎓 Info**atics Engineering Student at Univ**sitas Pamulang
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Machine+Learning+Enthusiast;Cyber+Security+Learner;uting+Explorer
 
-💻 Interested in**ackend Development, Data Mining, **oud Computing, and Cyber Security**🌱 Currently learning Machine Lea**ing, Ethical Hacking, and Spring **ot
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e=for-the-badge
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-![Java**img.shields.io/badge/Java-ED8B00?**yle=flat-square&logo=openjdk&logo**lor=white
-![Spring Boot](https**/img.shields.io/badge/Spring_Boot**DB33**re&logo=springboot&logoColor=whit**![My**L](https://img.shields.io/badge/M**?style=flat-square&logo=mysql&log**olor=white
-![Post**eSQL](https://img.shields**eSQL-316192?style=flat-square&log**postgresql&logoColor=white
-![Dock**](https://**g.shields.io/badge/Docker-2496ED?**quare&logo=docker&logoColor=white**[Git](https**/img.shields.io/badge/Git-F05032?**t-square&logo=git&logoColor=white**[Figma**https://img.shields.io/badge/Figm**F24E**at-square&logo=figma&logoColor=wh**e
+🎓 Informatics Engineering Student at Universitas Pamulang
+
+💻 Passionate about Backend Development
+
+🔬 Interested in Data Mining & Machine Learning
+
+☁️ Learning Cloud Computing & Docker
+
+🔐 Exploring Ethical Hacking & Cyber Security
+
+🎯 Future Software Engineer & Cyber Security Specialist
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,docker,git,github,linux,va&perline=5
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAMEtokyonight&hide_border=true
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layoutht&hide_border=true
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolabYOUR_USERNAME&theme=tokyonight&hide_border=true
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel?username=YOUR_USERNAME&theme=tokyo-night
+
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokw=1&column=6
+
+</div>
 
 ---
 
 ## 📚 Current Focus
 
-- Ma**ine Learning
-- Data Mining
-- Spri** Boot REST API
-- Ethical Hacking
-**Cloud Computing
+```text
+✓ Machine Learning
+✓ Data Mining
+✓ Spring Boot REST API
+✓ Ethical Hacking
+✓ Cloud Computing
+✓ Cyber Security
+```
 
 ---
 
-## 🔬 Featu**d Research
+## 🌐 Connect With Me
 
-### Sentiment Analysi**and Complaint Classification of D**A App Reviews
+<p align="center">
+<a href="mailto:tyowhydi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335-the-badge&logo=gmail&logoColor=white
+</a>
 
-Algorithms:
-- Naiv**Bayes
-- Support Vector Machine (S**)
-- Random Forest
-
-Dataset:
-- Goo**e Play Store User Reviews
+https://linkedin.com/in/tiyo-wahyudi-488b02438
+<img src="https://img.shields.io/badge/LinkedInyle=for-the-badge&logo=linkedin&logoColor=white
+</a>
+</p>
 
 ---
 
-#**📫 Connect
+## 🐍 Contribution Snake
 
-- Email: tyowhydi@gma**.com
-- LinkedIn: https://linkedin**om/in/tiyo-wahyudi-488b02438
+> Buat file `.github/workflows/snake.yml` lalu aktifkan GitHub Actions
 
----**⭐ Keep Learning, Keep Building, a** Never Stop Exploring Technology.**
+<div align="center">
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blobribution-grid-snake.svg
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Keep Learning, Keep Building, and Never Stop Exploring Technology ⭐
+
+</div>
