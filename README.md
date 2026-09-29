@@ -70,19 +70,23 @@ Currently building scalable backend systems with Java & Spring Boot, exploring m
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tyo-whydi&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=tyo-whydi&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=tyo-whydi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakNum=00D9FF" alt="GitHub Streak" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tyo-whydi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakNum=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -92,7 +96,7 @@ Currently building scalable backend systems with Java & Spring Boot, exploring m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tyo-whydi&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tyo-whydi&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
@@ -102,7 +106,7 @@ Currently building scalable backend systems with Java & Spring Boot, exploring m
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tyo-whydi&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tyo-whydi&theme=tokyonight&no-frame=false&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
