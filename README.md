@@ -1,15 +1,10 @@
 <div align="center">
 
-<!-- HEADER ANIMASI -->
-<h1>👋 Hi, I'm Tiyo Wahyudi</h1>
+# 👋 Hi, I'm Tiyo Wahyudi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Machine+Learning+Enthusiast;Data+Mining+Explorer;Cloud+Computing+Learner;Cybersecurity+Specialist" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Machine+Learning+Enthusiast;Data+Mining+Explorer;Cloud+Computing+Learner;Cybersecurity+Specialist)](https://github.com/tyo-whydi)
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=tyo-whydi&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-
-<br /><br />
+![Profile Views](https://komarev.com/ghpvc/?username=tyo-whydi&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -21,25 +16,25 @@
 
 <div align="center">
 
-I'm a passionate **Informatics Engineering Student** at **Universitas Pamulang**
+I'm a passionate **Informatics Engineering Student** at **Universitas Pamulang** dedicated to creating innovative solutions in:
 
 🎯 **Backend Development** | 🤖 **Machine Learning** | ☁️ **Cloud Computing** | 🔐 **Cybersecurity**
 
-Building scalable backend systems with Java & Spring Boot, exploring machine learning, and diving into cybersecurity.
+Building scalable backend systems with Java & Spring Boot, exploring machine learning applications, and diving deep into cloud technologies and cybersecurity.
 
 </div>
 
 ---
 
-## 🎓 Academic Profile
+## 🎓 Academic & Professional Profile
 
-| Focus | Skills | Technology |
+| 🏆 Focus Area | 📚 Core Skills | 🛠️ Technologies |
 |:---:|:---:|:---:|
-| Backend | REST APIs | Java, Spring Boot |
-| Database | SQL | MySQL, PostgreSQL |
-| DevOps | Containers | Docker, Linux |
-| AI/ML | Data Analysis | Python, TensorFlow |
-| Security | Ethical Hacking | Cybersecurity |
+| **Backend Development** | REST APIs, Microservices | Java, Spring Boot, Spring Framework |
+| **Database Systems** | SQL Optimization, Design | MySQL, PostgreSQL |
+| **DevOps & Cloud** | Containerization, CI/CD | Docker, Linux, Cloud Basics |
+| **AI & Machine Learning** | Data Analysis, ML Algorithms | Python, TensorFlow, Data Science |
+| **Cybersecurity** | Ethical Hacking, Network Security | Security Tools, Penetration Testing |
 
 ---
 
@@ -47,14 +42,23 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 <div align="center">
 
-**Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,postgresql" />
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Additional**
-<img src="https://skillicons.dev/icons?i=figma,postman" />
+### 🎨 Additional Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -74,7 +78,7 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
 </div>
 
@@ -94,13 +98,13 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 <div align="center">
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=tyo-whydi&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=tyo-whydi&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/tyo-whydi)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -124,44 +128,60 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 ---
 
-## 🎯 Core Skills
+## 🎯 Core Competencies
 
-**🚀 Backend Development**
+<div align="center">
+
+### 🚀 Backend Development
 - Java & Spring Framework
 - Spring Boot REST APIs
 - Microservices Architecture
 - Database Design & Optimization
+- API Security & Authentication
+- RESTful API Best Practices
 
-**🤖 AI & Data Science**
+### 🤖 AI & Data Science
 - Machine Learning Algorithms
 - Data Mining & Analysis
-- Python Data Science
+- Python Data Science Stack
 - Predictive Modeling
+- Data Visualization
+- Statistical Analysis
 
-**🔐 Cybersecurity**
+### 🔐 Cybersecurity
 - Ethical Hacking Fundamentals
-- Network Security
+- Network Security Principles
 - Secure Code Development
 - Penetration Testing Basics
+- Security Best Practices
+- Vulnerability Assessment
 
-**☁️ DevOps & Cloud**
+### ☁️ DevOps & Cloud
 - Docker Containerization
-- Linux Administration
-- CI/CD Pipelines
+- Linux System Administration
+- CI/CD Pipeline Development
 - Cloud Architecture Basics
+- Infrastructure as Code
+- Deployment Strategies
+
+</div>
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Tech | Description |
+<div align="center">
+
+| Project | Technology | Description |
 |:---:|:---:|:---|
-| 🔗 REST APIs | Spring Boot | Production-ready backend |
-| 📊 Data Analysis | Python, ML | ML implementations |
-| 🐳 DevOps | Docker | Containerized apps |
-| 🔐 Security | Cybersecurity | Security research |
+| 🔗 **REST API Services** | Spring Boot, Java | Production-ready backend services & microservices |
+| 📊 **Data Analysis** | Python, ML | Machine learning implementations & data mining |
+| 🐳 **DevOps Pipeline** | Docker, Linux | Containerized applications & deployment |
+| 🔐 **Security Tools** | Cybersecurity | Security research & vulnerability analysis |
 
 **👉 [View All Repositories](https://github.com/tyo-whydi?tab=repositories)**
+
+</div>
 
 ---
 
@@ -169,7 +189,7 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyowhydi@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyowhydi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiyo-wahyudi-488b02438)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyo-whydi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tyo_whydi)
@@ -178,9 +198,15 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 ---
 
-## 🐍 Contribution Snake
+## 📞 Available For
 
-![Contribution Snake](https://raw.githubusercontent.com/tyo-whydi/tyo-whydi/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-brightgreen?style=for-the-badge&logo=github)
+![Freelance](https://img.shields.io/badge/Freelance-Projects-blue?style=for-the-badge&logo=briefcase)
+![Collaboration](https://img.shields.io/badge/Open%20For-Collaborations-ff69b4?style=for-the-badge&logo=handshake)
+
+</div>
 
 ---
 
@@ -190,14 +216,20 @@ Building scalable backend systems with Java & Spring Boot, exploring machine lea
 
 <h2>⭐ Let's Build Something Amazing Together! ⭐</h2>
 
-**Currently Learning:** Advanced Spring Boot | Machine Learning | Cloud Architecture | Cybersecurity
+<p>
+  <strong>Currently Focused On:</strong>
+  <br />
+  Advanced Spring Boot | Machine Learning | Cloud Architecture | Cybersecurity Research
+</p>
 
-[![Open for Collaborations](https://img.shields.io/badge/Open%20For-Collaborations-brightgreen?style=for-the-badge&logo=github)](https://github.com/tyo-whydi)
+<br />
+
+**Made with ❤️ by Tiyo Wahyudi**
+
+*Keep Learning • Keep Building • Keep Exploring Technology* 🚀
+
+<br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-Made with ❤️ by Tiyo Wahyudi
-
-*Keep Learning • Keep Building • Keep Exploring* 🚀
 
 </div>
