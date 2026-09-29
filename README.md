@@ -12,11 +12,11 @@ Informatics Engineering Student | Backend Developer | Cyber Security Enthusiast
 
 💻 Passionate about Backend Development using Java & Spring Boot
 
-🔬 Interested in Data Mining and Machine Learning Research
+🔬 Interested in Data Mining and Machine Learning
 
 ☁️ Exploring Cloud Computing, Docker, and Virtualization
 
-🔐 Currently learning Ethical Hacking & Cyber Security
+🔐 Currently Learning Ethical Hacking & Cyber Security
 
 🎯 Goal: Become a Software Engineer & Cyber Security Specialist
 
@@ -40,7 +40,7 @@ Informatics Engineering Student | Backend Developer | Cyber Security Enthusiast
 ### Tools & Design
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.ioGit-F05032?style=for-the-badge&logo=git&logoColor=white
+![Git](https://img.shields.io/badge/G32?style=for-the-badge&logo=git&logoColor=white
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -58,14 +58,14 @@ Informatics Engineering Student | Backend Developer | Cyber Security Enthusiast
 
 ## 🔬 Featured Research
 
-**Sentiment Analysis and Complaint Classification of DANA App Reviews**
+### Sentiment Analysis and Complaint Classification of DANA App Reviews
 
-Algorithms:
+**Algorithms:**
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Random Forest
 
-Dataset Source:
+**Dataset Source:**
 - Google Play Store User Reviews
 
 ---
@@ -73,8 +73,8 @@ Dataset Source:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyo-whydi&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyo-whydi&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyo-whydi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Dataset Source:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp=tyo-whydi&theme=tokyonight
+  <img src="https://github-readme-streak-kuapp.com/?user=tyo-whydi&theme=tokyonight
 </p>
 
 ---
@@ -90,13 +90,13 @@ Dataset Source:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:tyowhydi@gmail.com">
-<img src="https:lds.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-</a>
+  <a href="mailto:tyowhydi@gmail.com">
+    <img src="https://img.shields.ioil-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
 
-<a href="https://linkedin.com/in/tiyo488b02438
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-=linkedin&logoColor=white
-</a>
+  <a href="https://linkedin.comwahyudi-488b02438
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?the-badge&logo=linkedin&logoColor=white
+  </a>
 </p>
 
 ---
